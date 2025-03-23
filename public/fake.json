@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "image": "https://i.ibb.co.com/hx7sKPRd/still-life-wireless-cyberpunk-headphones.jpg",
+      "price": 199.99,
+      "description": "High-quality wireless headphones with noise cancellation and long-lasting battery life.",
+      "isfeature": true
+    },
+    {
+      "id": "2",
+      "name": "Smartphone Pro Max",
+      "image": "https://i.ibb.co.com/HTHZtJ4T/61q-JX973f-RL-AC-SL1500.jpg",
+      "price": 999.99,
+      "description": "Premium smartphone with a 6.7-inch display, 5G support, and ultra-fast processor.",
+      "isfeature": true
+    },
+    {
+      "id": "3",
+      "name": "Laptop Ultra",
+      "image": "https://i.ibb.co.com/TqgdM8Y1/still-life-books-versus-technology.jpg",
+      "price": 1299.99,
+      "description": "Lightweight and powerful laptop, perfect for professionals and students alike.",
+      "isfeature": false
+    },
+    {
+      "id": "4",
+      "name": "Smart Watch 3.0",
+      "image": "https://i.ibb.co.com/LX7FMJkm/stylish-golden-watch-white-surface.jpg",
+      "price": 249.99,
+      "description": "Track your health and fitness with this sleek, advanced smart watch.",
+      "isfeature": true
+    },
+    {
+      "id": "5",
+      "name": "Portable Speaker",
+      "image": "https://i.ibb.co.com/0xRtByc/2360669.jpg",
+      "price": 89.99,
+      "description": "Compact and waterproof portable speaker for your outdoor adventures.",
+      "isfeature": false
+    },
+    {
+      "id": "6",
+      "name": "4K TV UltraHD",
+      "image": "https://i.ibb.co.com/qMpDt7zj/view-computer-monitor-display.jpg",
+      "price": 799.99,
+      "description": "Experience crystal-clear visuals with this 55-inch 4K UltraHD television.",
+      "isfeature": true
+    }
+  ]
